@@ -6,3 +6,17 @@
 .input-design {
   width: 100% !important;
 }
+
+.card {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.cards-container {
+  margin-top: 100px !important;
+  width: 400px;
+  padding: 16px;
+  margin-bottom: 16px;
+  margin: 16px;
+}
